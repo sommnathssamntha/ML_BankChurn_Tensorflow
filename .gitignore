@@ -90,10 +90,10 @@ env/
 *.sqlite3
 
 # Model files
-*.pkl
+
 *.joblib
 *.hdf5
-*.h5
+
 
 # Logs
 *.log
