@@ -85,7 +85,6 @@ env/
 *.tsv
 *.xls
 *.xlsx
-*.h5
 *.db
 *.sqlite3
 
